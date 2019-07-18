@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidNavigationController</string>
+    <string name="navigation_drawer_open">open drawer</string>
+    <string name="navigation_drawer_close">close drawer</string>
+</resources>
