@@ -1,2 +1,2 @@
 # NavigationArcComponent
-How to user navigation architecture component?
+How to use navigation architecture component?
